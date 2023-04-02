@@ -9,7 +9,7 @@
 
   Drug Use Cases in USA (2014-2016) Dataset
 This dataset contains information on drug use cases in the United States from 2014 to 2016. The data was collected from various sources and compiled into a single CSV file for analysis and research purposes. The dataset includes information on drug type, age group, gender, state, and year.
-<br><br>
+<br><br><br>
 <h3>
 Data Sources
   </h3>
@@ -21,7 +21,7 @@ The data for this dataset was obtained from the following sources:
 •	Substance Abuse and Mental Health Services Administration (SAMHSA)
 <br>
 •	Centers for Disease Control and Prevention (CDC)
-<br><br>
+<br><br><br>
 
 <h3>
 Data Description</h3>
@@ -44,7 +44,7 @@ The dataset contains 25,271 rows and 5 columns. The columns in the dataset are:
 Data Cleaning</h3>
 <br>
 The original dataset was cleaned to remove any duplicate entries, incorrect or missing values, and to ensure consistency across columns. Additionally, some minor data transformations were performed to make the data easier to work with.
-<br><br>
+<br><br><br>
 <h3>
 Usage</h3>
 <br>
@@ -56,8 +56,9 @@ This dataset can be used for a variety of purposes, including:
 <br>
 •	Development of prevention and intervention strategies to address drug use issues
 The dataset is available in CSV format and can be easily imported into statistical software or programming languages such as R or Python for analysis.
-<br><br>
-Acknowledgments
+<br><br><br>
+<h3>
+Acknowledgments</h3>
 <br>
 We would like to thank the National Survey on Drug Use and Health and the Centers for Disease Control and Prevention for providing the data used in this analysis.
 <br><br>
