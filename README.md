@@ -8,7 +8,7 @@
 
 
   Drug Use Cases in USA (2014-2016) Dataset
-This dataset contains information on drug use cases in the United States from 2014 to 2016. The data was collected from various sources and compiled into a single CSV file for analysis and research purposes. The dataset includes information on drug type, age group, gender, state, and year.
+This dataset contains information on drug use cases in the United States from 2014 to 2016. The data was collected from various sources and compiled into a single CSV file for analysis and research purposes. The dataset includes information on drug type, admition count, state, year etc...
 <br><br><br>
 <h3>
 Data Sources
